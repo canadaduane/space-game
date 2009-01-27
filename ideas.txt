@@ -1,0 +1,40 @@
+mysteries / secrets : unknown myths, etc.
+    - some solvable, some not
+
+plots & subplots
+    - algorithmic plot generator?
+
+New alien species
+    - genetic algorithm on separate server creating races
+
+10 star systems for each player who joins the game
+    - as each player joins, it feels like the universe is always open ended
+
+Algebra for plot
+    "->" = "then"
+    a -> b -> c
+    related/unrelated to player
+    beings < organizations < race
+    being + place + time + intent / action + resources
+
+Alien Creatures
+    technology
+    motion / direction & speed
+    skin texture / color
+    body shape
+    speech
+    armor
+    immune system
+    health
+    resurrection
+    communication among parts
+    "dead" state
+    "alive" state
+
+Planet exploration
+    Meet alien
+    explore surface
+    procedural
+    
+
+Etherpad: http://etherpad.com/7HyQuLw4BO
